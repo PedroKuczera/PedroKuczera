@@ -1,16 +1,17 @@
-### Hi there 👋
+# Olá, Bem vindo ao meu perfil no Github.
+## Meu nome é Pedro Henrique Kuczera Dias e meu apelido aqui é PedroKuczera!.
+## Sou formado em ADS pela Unicesumar e atualmente sou estudando do Alura.
+## Atualmente estou estudando:
 
-<!--
-**PedroKuczera/PedroKuczera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
 
-Here are some ideas to get you started:
+                    
+Email de contato: pedrohkd001@gmail.com.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+<a href="https://instagram.com/pedrokuczera" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "pedrohkd001@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://cursos.alura.com.br/user/pedrohkd001" target="_blank"><img loading="lazy" src="https://avatars.githubusercontent.com/u/4975968?s=280&v=4style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
